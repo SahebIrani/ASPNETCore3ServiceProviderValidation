@@ -1,0 +1,8 @@
+{
+  "solution": {
+    "path": "ASPNETCore3ServiceProviderValidation.sln",
+    "projects": [
+      "Simple\\Simple.csproj"
+    ]
+  }
+}
